@@ -1,14 +1,13 @@
-# BookVerse API
+# Book API
 
-A mini social backend for BookVerse built with Express + TypeScript + MongoDB.
+Social backend for book
 
 ## Features
 - JWT authentication
 - Add books and reviews
-- Upvote/downvote reviews (one vote per user per review)
-- Book listing with aggregation (average rating, total reviews)
-- Input validation with Zod
-- Example Postman collection included
+- Upvote/downvote reviews
+- Book listing with aggregation
+
 
 ## Quickstart
 
